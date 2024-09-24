@@ -25,13 +25,13 @@ author:
   name             : "Arina Shandala"
   pronouns         :  "she/her"  
   bio              : "Ph.D. student in Developmental Linguistics"
-  location         : "Berlin, Germany / Sydney, Australia"
-  employer         : "University of Potsdam / Macquarie University"
+  location         : "Berlin, Germany"
+  employer         : "IDEALAB"
   email            : "arina.shandala@uni-potsdam.de" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=5YLPOt8AAAAJ&hl=en&oi=ao"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0009-4524-239X"
   researchgate     : "https://www.researchgate.net/profile/Arina-Shandala"
 
   # Repositories and software development
