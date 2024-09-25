@@ -6,16 +6,7 @@
 
 main:
   - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
+    url: https://scholar.google.com/citations?user=5YLPOt8AAAAJ&hl=en&oi=ao
         
   - title: "CV"
     url: /files/Shandala_updatedCV0924.pdf
