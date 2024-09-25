@@ -13,4 +13,4 @@ My interest in developmental linguistics was shaped by Prof. Ball-Avetisian, who
 
 Before my work in academia, I worked in creative industries, first assisting at exhibitions in a contemporary art museum and then moving to the music industry. I was involved in music festival coordination, interview assistance, and participation in music PR campaigns. I love working close to music and interacting with people, and I’m lucky to be able to do this regularly in my current research project. 
 
-In my free time, I often sing and play the piano, synths, or jam with others. I also like playing computer games and going to the gym or yoga. 
+In my free time, I often sing, play the piano, and make music with my friends. I also like playing computer games and going to the gym. 
